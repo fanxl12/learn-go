@@ -1,2 +1,2 @@
 # learn-go
-learn go language
+学习go语言
