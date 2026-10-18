@@ -1,3 +1,3 @@
-module First
+module LearnGo
 
 go 1.27
