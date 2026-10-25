@@ -8,7 +8,6 @@ import (
 
 var total int32
 var wg sync.WaitGroup
-var lock sync.Mutex
 
 func add() {
 	defer wg.Done()
